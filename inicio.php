@@ -31,7 +31,7 @@ if (!isset($_SESSION['loggedin'])) {
     <nav class="navtop">
         <h1 style="color:white;">Sistema de Login Básico</h1>
         <a href="perfil.php" style="color:white;"><i class="fas fa-user-circle"></i>Información de Usuario</a>
-        <a href="perfil.php" style="color:white;"><i class="fas fa-user-circle"></i>Lista de Usuario</a>
+        <a href="consulta_productos.php" style="color:white;"><i class="fas fa-user-circle"></i>Lista de Productos</a>
         <a href="cerrar-sesion.php" style="color:white;"><i class="fas fa-sign-out-alt"></i>Cerrar Sesión</a>
     </nav>
 
